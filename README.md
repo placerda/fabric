@@ -16,8 +16,8 @@ This is a Python-based solution to execute DAX queries against a Power BI Premiu
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/MY_REPO.git
-   cd MY_REPO
+   git clone https://github.com/your-username/fabric.git
+   cd fabric
    ```
 2. Install dependencies:
    ```bash
@@ -54,7 +54,7 @@ INFO:fabric:DAX query executed successfully.
 ## Repository Structure
 
 ```
-MY_REPO/
+fabric/
 ├── fabric.py             # Main library for executing DAX queries
 ├── test_fabric.py        # Test script to validate functionality
 ├── requirements.txt      # Python dependencies
