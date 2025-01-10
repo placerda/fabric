@@ -1,6 +1,4 @@
-# MY_REPO
-
-MY_REPO is a Python-based solution to execute DAX queries against a Power BI Premium dataset using a service principal for authentication. This repository includes the necessary code, requirements, and a test program to validate the functionality.
+This is a Python-based solution to execute DAX queries against a Power BI Premium dataset using a service principal for authentication. This repository includes the necessary code, requirements, and a test program to validate the functionality.
 
 ## Features
 - **Execute DAX Queries**: Perform queries on Power BI datasets using REST API.
